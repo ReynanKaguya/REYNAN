@@ -1,0 +1,96 @@
+h1{
+	text-align: center;
+}
+nav{
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+nav a{
+	text-decoration: none;
+	display: block;
+	padding: 15px 25PX;
+	text-align: center;
+	background-color: rgb(189, 185, 185);
+	color: #464141;
+	margin-left: auto;
+ 	 margin-right: auto;
+	font-family: sans-serif;
+}
+.pag1{
+	border: 5px solid black;
+	font-style: italic;
+	text-transform: capitalize;
+}
+.pag2{
+	border: 5px solid black;
+	font-style: italic;
+}
+.pag3{
+	border: 5px solid black;
+	font-style: italic;
+}
+.pag4{
+	border: 5px solid black;
+	font-style: italic;
+	width: auto;
+}
+.pag1 img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 40%;
+}
+.hack{
+	background-image: url('https://th.bing.com/th/id/OIP.R_pyAU8mNNfi7ekec_T25wHaDx?pid=ImgDet&rs=1');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.hack1{
+	background-image: url('https://th.bing.com/th/id/OIP.Sq-2WFZ_4EgfOGxyLJ9aRwHaGN?pid=ImgDet&w=183&h=153&c=7');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.hack2{
+	background-image: url('https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&w=600');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.hack3{
+	background-image: url('https://images.pexels.com/photos/547115/pexels-photo-547115.jpeg?auto=compress&cs=tinysrgb&w=600');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.pag4 img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 40%;
+}
+.pag3 img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 40%;
+}
+.pag2 img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 40%;
+}
+.heh img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 40%;
+}
